@@ -1,16 +1,8 @@
-# sample_ar
+#### sample_ar
 
-A new Flutter project.
+View mars and earth in ar.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/23090608/166399846-c0118686-b0fa-460f-ab31-d6f69d2d3377.MP4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
