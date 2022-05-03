@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/var/Desktop/flutter_ar/sample_ar/build/ios/Debug-iphonesimulator/arkit_plugin/arkit_plugin.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/var/Desktop/flutter_ar/sample_ar/ios/build/Pods.build/Debug-iphonesimulator/arkit_plugin.build/unextended-module.modulemap",
+    }]
+  }]
+}

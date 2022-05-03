@@ -1,0 +1,47 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "30773877af673ad64ab80f2e2d11ee9a24eeee8f268b0aacf6b33343a52cc033"
+build_start_time: [1648006136, 427620887]
+build_end_time: [1648006142, 375012874]
+inputs:
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/ConfigurationBuilders/BodyTrackingConfigurationBuilder.swift"
+  : [1647916065, 323125362]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/ConfigurationBuilders/FaceTrackingConfigurationBuilder.swift"
+  : [1647916065, 325606584]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/ConfigurationBuilders/ImageTrackingConfigurationBuilder.swift"
+  : [1647916065, 321512222]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/ConfigurationBuilders/WorldTrackingConfigurationBuilder.swift"
+  : [1647916065, 324672698]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/Extensions/UIColorExtensions.swift"
+  : [1647916065, 297688961]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/FlutterArkitView+ARCoachingOverlayViewDelegate.swift"
+  : [1647916065, 294552087]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/FlutterArkitView+ARSCNViewDelegate.swift"
+  : [1647916065, 327874660]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/FlutterArkitView+GesutreRecognizer.swift"
+  : [1647916065, 287868261]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/FlutterArkitView+Handlers.swift"
+  : [1647916065, 298556804]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/FlutterArkitView+Initialization.swift"
+  : [1647916065, 319812297]
+  "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/FlutterArkitView.swift": [1647916065, 288903236]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/GeometryBuilders/Geometries.swift"
+  : [1647916065, 282686710]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/GeometryBuilders/GeometryBuilder.swift"
+  : [1647916065, 284280776]
+  "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/NodeBuilder.swift": [1647916065, 295848369]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/Serializers/AnchorSerializer.swift"
+  : [1647916065, 292032718]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/Serializers/Deserializers.swift"
+  : [1647916065, 290708541]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/Serializers/Serializers.swift"
+  : [1647916065, 289909839]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/SwiftArkitPlugin+configurationCheck.swift"
+  : [1647916065, 328974723]
+  "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/SwiftArkitPlugin.swift": [1647916065, 301800251]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/Utils/ARHitResultsHelper.swift"
+  : [1647916065, 312209606]
+  "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/Utils/ErrorLogger.swift": [1647916065, 304006099]
+  "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/Utils/ImageParser.swift": [1647916065, 309166431]
+  ? "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/Utils/ReferenceImagesParser.swift"
+  : [1647916065, 313739299]
+  "/Users/var/Desktop/sdk.nosync/flutter/.pub-cache/hosted/pub.dartlang.org/arkit_plugin-1.0.5/ios/Classes/VideoArkitPlugin.swift": [1647916065, 317474842]

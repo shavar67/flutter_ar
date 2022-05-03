@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+Flutter in Pods, no dependencies
+arkit_plugin in Pods, depends on:
+Flutter in Pods (explicit)
+Pods-Runner in Pods, depends on:
+Flutter in Pods (explicit)
+arkit_plugin in Pods (explicit)
+Runner in Runner, depends on:
+Pods-Runner in Pods (implicit dependency via file 'Pods_Runner.framework' in build phase 'Link Binary')
+arkit_plugin in Pods (implicit dependency via options '-framework arkit_plugin' in build setting 'OTHER_LDFLAGS')

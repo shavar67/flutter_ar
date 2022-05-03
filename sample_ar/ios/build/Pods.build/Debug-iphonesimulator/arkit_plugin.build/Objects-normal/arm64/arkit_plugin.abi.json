@@ -1,0 +1,5762 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "serializeAnchor",
+      "printedName": "serializeAnchor(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "ARAnchor",
+          "printedName": "ARKit.ARAnchor",
+          "usr": "c:objc(cs)ARAnchor"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin15serializeAnchorySDySSypGSo8ARAnchorCF",
+      "mangledName": "$s12arkit_plugin15serializeAnchorySDySSypGSo8ARAnchorCF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "getARHitResultsArray",
+      "printedName": "getARHitResultsArray(_:atLocation:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[[Swift.String : Any]]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "usr": "s:Sa"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "ARSCNView",
+          "printedName": "ARKit.ARSCNView",
+          "usr": "c:objc(cs)ARSCNView"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "CGPoint",
+          "printedName": "CoreGraphics.CGPoint",
+          "usr": "c:@S@CGPoint"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin20getARHitResultsArray_10atLocationSaySDySSypGGSo9ARSCNViewC_So7CGPointVtF",
+      "mangledName": "$s12arkit_plugin20getARHitResultsArray_10atLocationSaySDySSypGGSo9ARSCNViewC_So7CGPointVtF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "createBodyTrackingConfiguration",
+      "printedName": "createBodyTrackingConfiguration(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "ARKit.ARBodyTrackingConfiguration?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ARBodyTrackingConfiguration",
+              "printedName": "ARKit.ARBodyTrackingConfiguration",
+              "usr": "c:objc(cs)ARBodyTrackingConfiguration"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin31createBodyTrackingConfigurationySo06ARBodyeF0CSgSDySSypGF",
+      "mangledName": "$s12arkit_plugin31createBodyTrackingConfigurationySo06ARBodyeF0CSgSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "intro_iOS": "13.0",
+      "declAttributes": [
+        "Available"
+      ],
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "deserizlieVector3",
+      "printedName": "deserizlieVector3(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNVector3",
+          "printedName": "SceneKit.SCNVector3",
+          "usr": "c:@S@SCNVector3"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.Double]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Double",
+              "printedName": "Swift.Double",
+              "usr": "s:Sd"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin17deserizlieVector3ySo10SCNVector3VSaySdGF",
+      "mangledName": "$s12arkit_plugin17deserizlieVector3ySo10SCNVector3VSaySdGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "deserizlieVector4",
+      "printedName": "deserizlieVector4(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNVector4",
+          "printedName": "SceneKit.SCNVector4",
+          "usr": "c:@S@SCNVector4"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.Double]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Double",
+              "printedName": "Swift.Double",
+              "usr": "s:Sd"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin17deserizlieVector4ySo10SCNVector4VSaySdGF",
+      "mangledName": "$s12arkit_plugin17deserizlieVector4ySo10SCNVector4VSaySdGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "deserializeMatrix4",
+      "printedName": "deserializeMatrix4(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNMatrix4",
+          "printedName": "SceneKit.SCNMatrix4",
+          "usr": "c:@S@SCNMatrix4"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Foundation.NSNumber]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "NSNumber",
+              "printedName": "Foundation.NSNumber",
+              "usr": "c:objc(cs)NSNumber"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin18deserializeMatrix4ySo10SCNMatrix4VSaySo8NSNumberCGF",
+      "mangledName": "$s12arkit_plugin18deserializeMatrix4ySo10SCNMatrix4VSaySo8NSNumberCGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "logPluginError",
+      "printedName": "logPluginError(_:toChannel:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "FlutterMethodChannel",
+          "printedName": "Flutter.FlutterMethodChannel",
+          "usr": "c:objc(cs)FlutterMethodChannel"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin14logPluginError_9toChannelySS_So013FlutterMethodG0CtF",
+      "mangledName": "$s12arkit_plugin14logPluginError_9toChannelySS_So013FlutterMethodG0CtF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "createFaceTrackingConfiguration",
+      "printedName": "createFaceTrackingConfiguration(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "ARKit.ARFaceTrackingConfiguration?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ARFaceTrackingConfiguration",
+              "printedName": "ARKit.ARFaceTrackingConfiguration",
+              "usr": "c:objc(cs)ARFaceTrackingConfiguration"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin31createFaceTrackingConfigurationySo06ARFaceeF0CSgSDySSypGF",
+      "mangledName": "$s12arkit_plugin31createFaceTrackingConfigurationySo06ARFaceeF0CSgSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "FlutterArkitView",
+      "printedName": "FlutterArkitView",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "sceneView",
+          "printedName": "sceneView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ARSCNView",
+              "printedName": "ARKit.ARSCNView",
+              "usr": "c:objc(cs)ARSCNView"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC05sceneE0So9ARSCNViewCvp",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC05sceneE0So9ARSCNViewCvp",
+          "moduleName": "arkit_plugin",
+          "declAttributes": [
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ARSCNView",
+                  "printedName": "ARKit.ARSCNView",
+                  "usr": "c:objc(cs)ARSCNView"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16FlutterArkitViewC05sceneE0So9ARSCNViewCvg",
+              "mangledName": "$s12arkit_plugin16FlutterArkitViewC05sceneE0So9ARSCNViewCvg",
+              "moduleName": "arkit_plugin",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "channel",
+          "printedName": "channel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterMethodChannel",
+              "printedName": "Flutter.FlutterMethodChannel",
+              "usr": "c:objc(cs)FlutterMethodChannel"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC7channelSo0C13MethodChannelCvp",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC7channelSo0C13MethodChannelCvp",
+          "moduleName": "arkit_plugin",
+          "declAttributes": [
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FlutterMethodChannel",
+                  "printedName": "Flutter.FlutterMethodChannel",
+                  "usr": "c:objc(cs)FlutterMethodChannel"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16FlutterArkitViewC7channelSo0C13MethodChannelCvg",
+              "mangledName": "$s12arkit_plugin16FlutterArkitViewC7channelSo0C13MethodChannelCvg",
+              "moduleName": "arkit_plugin",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "forceTapOnCenter",
+          "printedName": "forceTapOnCenter",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC16forceTapOnCenterSbvp",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC16forceTapOnCenterSbvp",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16FlutterArkitViewC16forceTapOnCenterSbvg",
+              "mangledName": "$s12arkit_plugin16FlutterArkitViewC16forceTapOnCenterSbvg",
+              "moduleName": "arkit_plugin",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16FlutterArkitViewC16forceTapOnCenterSbvs",
+              "mangledName": "$s12arkit_plugin16FlutterArkitViewC16forceTapOnCenterSbvs",
+              "moduleName": "arkit_plugin",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16FlutterArkitViewC16forceTapOnCenterSbvM",
+              "mangledName": "$s12arkit_plugin16FlutterArkitViewC16forceTapOnCenterSbvM",
+              "moduleName": "arkit_plugin",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "configuration",
+          "printedName": "configuration",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "ARKit.ARConfiguration?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ARConfiguration",
+                  "printedName": "ARKit.ARConfiguration",
+                  "usr": "c:objc(cs)ARConfiguration"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC13configurationSo15ARConfigurationCSgvp",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC13configurationSo15ARConfigurationCSgvp",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "ARKit.ARConfiguration?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ARConfiguration",
+                      "printedName": "ARKit.ARConfiguration",
+                      "usr": "c:objc(cs)ARConfiguration"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16FlutterArkitViewC13configurationSo15ARConfigurationCSgvg",
+              "mangledName": "$s12arkit_plugin16FlutterArkitViewC13configurationSo15ARConfigurationCSgvg",
+              "moduleName": "arkit_plugin",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "ARKit.ARConfiguration?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ARConfiguration",
+                      "printedName": "ARKit.ARConfiguration",
+                      "usr": "c:objc(cs)ARConfiguration"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16FlutterArkitViewC13configurationSo15ARConfigurationCSgvs",
+              "mangledName": "$s12arkit_plugin16FlutterArkitViewC13configurationSo15ARConfigurationCSgvs",
+              "moduleName": "arkit_plugin",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16FlutterArkitViewC13configurationSo15ARConfigurationCSgvM",
+              "mangledName": "$s12arkit_plugin16FlutterArkitViewC13configurationSo15ARConfigurationCSgvM",
+              "moduleName": "arkit_plugin",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(withFrame:viewIdentifier:messenger:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterArkitView",
+              "printedName": "arkit_plugin.FlutterArkitView",
+              "usr": "c:@M@arkit_plugin@objc(cs)FlutterArkitView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "CGRect",
+              "printedName": "CoreGraphics.CGRect",
+              "usr": "c:@S@CGRect"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int64",
+              "printedName": "Swift.Int64",
+              "usr": "s:s5Int64V"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterBinaryMessenger",
+              "printedName": "Flutter.FlutterBinaryMessenger",
+              "usr": "c:objc(pl)FlutterBinaryMessenger"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC9withFrame14viewIdentifier9messengerACSo6CGRectV_s5Int64VSo0C15BinaryMessenger_ptcfc",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC9withFrame14viewIdentifier9messengerACSo6CGRectV_s5Int64VSo0C15BinaryMessenger_ptcfc",
+          "moduleName": "arkit_plugin",
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "view",
+          "printedName": "view()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIView",
+              "printedName": "UIKit.UIView",
+              "usr": "c:objc(cs)UIView"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@arkit_plugin@objc(cs)FlutterArkitView(im)view",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC4viewSo6UIViewCyF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "view",
+          "declAttributes": [
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onMethodCalled",
+          "printedName": "onMethodCalled(_:_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterMethodCall",
+              "printedName": "Flutter.FlutterMethodCall",
+              "usr": "c:objc(cs)FlutterMethodCall"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "typeAttributes": [
+                "noescape"
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC14onMethodCalledyySo0cG4CallC_yypSgXEtF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC14onMethodCalledyySo0cG4CallC_yypSgXEtF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onDispose",
+          "printedName": "onDispose(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "typeAttributes": [
+                "noescape"
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC9onDisposeyyyypSgXEF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC9onDisposeyyyypSgXEF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterArkitView",
+              "printedName": "arkit_plugin.FlutterArkitView",
+              "usr": "c:@M@arkit_plugin@objc(cs)FlutterArkitView"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@arkit_plugin@objc(cs)FlutterArkitView(im)init",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewCACycfc",
+          "moduleName": "arkit_plugin",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "init",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "addCoachingOverlay",
+          "printedName": "addCoachingOverlay(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC18addCoachingOverlayyySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC18addCoachingOverlayyySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "removeCoachingOverlay",
+          "printedName": "removeCoachingOverlay()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC21removeCoachingOverlayyyF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC21removeCoachingOverlayyyF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "coachingOverlayViewDidDeactivate",
+          "printedName": "coachingOverlayViewDidDeactivate(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ARCoachingOverlayView",
+              "printedName": "ARKit.ARCoachingOverlayView",
+              "usr": "c:objc(cs)ARCoachingOverlayView"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)coachingOverlayViewDidDeactivate:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC015coachingOverlayE13DidDeactivateyySo010ARCoachinggE0CF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "coachingOverlayViewDidDeactivate:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "session",
+          "printedName": "session(_:didFailWithError:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ARSession",
+              "printedName": "ARKit.ARSession",
+              "usr": "c:objc(cs)ARSession"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Error",
+              "printedName": "Swift.Error",
+              "usr": "s:s5ErrorP"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)session:didFailWithError:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC7session_16didFailWithErrorySo9ARSessionC_s0J0_ptF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "session:didFailWithError:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "session",
+          "printedName": "session(_:cameraDidChangeTrackingState:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ARSession",
+              "printedName": "ARKit.ARSession",
+              "usr": "c:objc(cs)ARSession"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ARCamera",
+              "printedName": "ARKit.ARCamera",
+              "usr": "c:objc(cs)ARCamera"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)session:cameraDidChangeTrackingState:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC7session_28cameraDidChangeTrackingStateySo9ARSessionC_So8ARCameraCtF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "session:cameraDidChangeTrackingState:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "sessionWasInterrupted",
+          "printedName": "sessionWasInterrupted(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ARSession",
+              "printedName": "ARKit.ARSession",
+              "usr": "c:objc(cs)ARSession"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)sessionWasInterrupted:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC21sessionWasInterruptedyySo9ARSessionCF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "sessionWasInterrupted:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "sessionInterruptionEnded",
+          "printedName": "sessionInterruptionEnded(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ARSession",
+              "printedName": "ARKit.ARSession",
+              "usr": "c:objc(cs)ARSession"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)sessionInterruptionEnded:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC24sessionInterruptionEndedyySo9ARSessionCF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "sessionInterruptionEnded:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "renderer",
+          "printedName": "renderer(_:didAdd:for:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "SCNSceneRenderer",
+              "printedName": "SceneKit.SCNSceneRenderer",
+              "usr": "c:objc(pl)SCNSceneRenderer"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "SCNNode",
+              "printedName": "SceneKit.SCNNode",
+              "usr": "c:objc(cs)SCNNode"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ARAnchor",
+              "printedName": "ARKit.ARAnchor",
+              "usr": "c:objc(cs)ARAnchor"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)renderer:didAddNode:forAnchor:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC8renderer_6didAdd3forySo16SCNSceneRenderer_p_So7SCNNodeCSo8ARAnchorCtF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "renderer:didAddNode:forAnchor:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "renderer",
+          "printedName": "renderer(_:didUpdate:for:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "SCNSceneRenderer",
+              "printedName": "SceneKit.SCNSceneRenderer",
+              "usr": "c:objc(pl)SCNSceneRenderer"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "SCNNode",
+              "printedName": "SceneKit.SCNNode",
+              "usr": "c:objc(cs)SCNNode"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ARAnchor",
+              "printedName": "ARKit.ARAnchor",
+              "usr": "c:objc(cs)ARAnchor"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)renderer:didUpdateNode:forAnchor:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC8renderer_9didUpdate3forySo16SCNSceneRenderer_p_So7SCNNodeCSo8ARAnchorCtF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "renderer:didUpdateNode:forAnchor:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "renderer",
+          "printedName": "renderer(_:didRemove:for:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "SCNSceneRenderer",
+              "printedName": "SceneKit.SCNSceneRenderer",
+              "usr": "c:objc(pl)SCNSceneRenderer"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "SCNNode",
+              "printedName": "SceneKit.SCNNode",
+              "usr": "c:objc(cs)SCNNode"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ARAnchor",
+              "printedName": "ARKit.ARAnchor",
+              "usr": "c:objc(cs)ARAnchor"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)renderer:didRemoveNode:forAnchor:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC8renderer_9didRemove3forySo16SCNSceneRenderer_p_So7SCNNodeCSo8ARAnchorCtF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "renderer:didRemoveNode:forAnchor:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "renderer",
+          "printedName": "renderer(_:updateAtTime:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "SCNSceneRenderer",
+              "printedName": "SceneKit.SCNSceneRenderer",
+              "usr": "c:objc(pl)SCNSceneRenderer"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Double",
+              "printedName": "Swift.Double",
+              "usr": "s:Sd"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)renderer:updateAtTime:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC8renderer_12updateAtTimeySo16SCNSceneRenderer_p_SdtF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "renderer:updateAtTime:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "gestureRecognizer",
+          "printedName": "gestureRecognizer(_:shouldRecognizeSimultaneouslyWith:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIGestureRecognizer",
+              "printedName": "UIKit.UIGestureRecognizer",
+              "usr": "c:objc(cs)UIGestureRecognizer"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIGestureRecognizer",
+              "printedName": "UIKit.UIGestureRecognizer",
+              "usr": "c:objc(cs)UIGestureRecognizer"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)gestureRecognizer:shouldRecognizeSimultaneouslyWithGestureRecognizer:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC17gestureRecognizer_33shouldRecognizeSimultaneouslyWithSbSo09UIGestureG0C_AGtF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "gestureRecognizer:shouldRecognizeSimultaneouslyWithGestureRecognizer:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "initalizeGesutreRecognizers",
+          "printedName": "initalizeGesutreRecognizers(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC27initalizeGesutreRecognizersyySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC27initalizeGesutreRecognizersyySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "handleTap",
+          "printedName": "handleTap(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITapGestureRecognizer",
+              "printedName": "UIKit.UITapGestureRecognizer",
+              "usr": "c:objc(cs)UITapGestureRecognizer"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)handleTap:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC9handleTapyySo22UITapGestureRecognizerCF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "handlePinch",
+          "printedName": "handlePinch(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIPinchGestureRecognizer",
+              "printedName": "UIKit.UIPinchGestureRecognizer",
+              "usr": "c:objc(cs)UIPinchGestureRecognizer"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)handlePinch:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC11handlePinchyySo24UIPinchGestureRecognizerCF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "handlePan",
+          "printedName": "handlePan(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIPanGestureRecognizer",
+              "printedName": "UIKit.UIPanGestureRecognizer",
+              "usr": "c:objc(cs)UIPanGestureRecognizer"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)handlePan:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC9handlePanyySo22UIPanGestureRecognizerCF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "handleRotation",
+          "printedName": "handleRotation(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIRotationGestureRecognizer",
+              "printedName": "UIKit.UIRotationGestureRecognizer",
+              "usr": "c:objc(cs)UIRotationGestureRecognizer"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@arkit_plugin@objc(cs)FlutterArkitView(im)handleRotation:",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC14handleRotationyySo27UIRotationGestureRecognizerCF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "declAttributes": [
+            "Dynamic",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onAddNode",
+          "printedName": "onAddNode(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC9onAddNodeyySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC9onAddNodeyySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onUpdateNode",
+          "printedName": "onUpdateNode(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC12onUpdateNodeyySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC12onUpdateNodeyySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onRemoveNode",
+          "printedName": "onRemoveNode(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC12onRemoveNodeyySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC12onRemoveNodeyySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onRemoveAnchor",
+          "printedName": "onRemoveAnchor(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC14onRemoveAnchoryySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC14onRemoveAnchoryySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onGetNodeBoundingBox",
+          "printedName": "onGetNodeBoundingBox(_:_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "typeAttributes": [
+                "noescape"
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC20onGetNodeBoundingBoxyySDySSypG_yypSgXEtF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC20onGetNodeBoundingBoxyySDySSypG_yypSgXEtF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onTransformChanged",
+          "printedName": "onTransformChanged(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC18onTransformChangedyySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC18onTransformChangedyySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onIsHiddenChanged",
+          "printedName": "onIsHiddenChanged(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC17onIsHiddenChangedyySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC17onIsHiddenChangedyySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onUpdateSingleProperty",
+          "printedName": "onUpdateSingleProperty(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC22onUpdateSinglePropertyyySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC22onUpdateSinglePropertyyySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onUpdateMaterials",
+          "printedName": "onUpdateMaterials(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC17onUpdateMaterialsyySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC17onUpdateMaterialsyySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onUpdateFaceGeometry",
+          "printedName": "onUpdateFaceGeometry(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC20onUpdateFaceGeometryyySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC20onUpdateFaceGeometryyySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onPerformHitTest",
+          "printedName": "onPerformHitTest(_:_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "typeAttributes": [
+                "noescape"
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC16onPerformHitTestyySDySSypG_yypSgXEtF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC16onPerformHitTestyySDySSypG_yypSgXEtF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onGetLightEstimate",
+          "printedName": "onGetLightEstimate(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "typeAttributes": [
+                "noescape"
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC18onGetLightEstimateyyyypSgXEF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC18onGetLightEstimateyyyypSgXEF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onProjectPoint",
+          "printedName": "onProjectPoint(_:_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "typeAttributes": [
+                "noescape"
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC14onProjectPointyySDySSypG_yypSgXEtF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC14onProjectPointyySDySSypG_yypSgXEtF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onCameraProjectionMatrix",
+          "printedName": "onCameraProjectionMatrix(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "typeAttributes": [
+                "noescape"
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC24onCameraProjectionMatrixyyyypSgXEF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC24onCameraProjectionMatrixyyyypSgXEF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onPointOfViewTransform",
+          "printedName": "onPointOfViewTransform(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "typeAttributes": [
+                "noescape"
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC09onPointOfE9TransformyyyypSgXEF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC09onPointOfE9TransformyyyypSgXEF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onPlayAnimation",
+          "printedName": "onPlayAnimation(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC15onPlayAnimationyySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC15onPlayAnimationyySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onStopAnimation",
+          "printedName": "onStopAnimation(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC15onStopAnimationyySDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC15onStopAnimationyySDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onCameraEulerAngles",
+          "printedName": "onCameraEulerAngles(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "typeAttributes": [
+                "noescape"
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC19onCameraEulerAnglesyyyypSgXEF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC19onCameraEulerAnglesyyyypSgXEF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "onGetSnapshot",
+          "printedName": "onGetSnapshot(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "typeAttributes": [
+                "noescape"
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC13onGetSnapshotyyyypSgXEF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC13onGetSnapshotyyyypSgXEF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "initalize",
+          "printedName": "initalize(_:_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "typeAttributes": [
+                "noescape"
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC9initalizeyySDySSypG_yypSgXEtF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC9initalizeyySDySSypG_yypSgXEtF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "parseDebugOptions",
+          "printedName": "parseDebugOptions(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SCNDebugOptions",
+              "printedName": "SceneKit.SCNDebugOptions",
+              "usr": "c:@E@SCNDebugOptions"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC17parseDebugOptionsySo08SCNDebugH0VSDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC17parseDebugOptionsySo08SCNDebugH0VSDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "parseConfiguration",
+          "printedName": "parseConfiguration(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "ARKit.ARConfiguration?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ARConfiguration",
+                  "printedName": "ARKit.ARConfiguration",
+                  "usr": "c:objc(cs)ARConfiguration"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC18parseConfigurationySo15ARConfigurationCSgSDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC18parseConfigurationySo15ARConfigurationCSgSDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "parseWorldAlignment",
+          "printedName": "parseWorldAlignment(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WorldAlignment",
+              "printedName": "ARKit.ARConfiguration.WorldAlignment",
+              "usr": "c:@E@ARWorldAlignment"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12arkit_plugin16FlutterArkitViewC19parseWorldAlignmentySo07ARWorldH0VSDySSypGF",
+          "mangledName": "$s12arkit_plugin16FlutterArkitViewC19parseWorldAlignmentySo07ARWorldH0VSDySSypGF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@arkit_plugin@objc(cs)FlutterArkitView",
+      "mangledName": "$s12arkit_plugin16FlutterArkitViewC",
+      "moduleName": "arkit_plugin",
+      "isOpen": true,
+      "declAttributes": [
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)NSObject",
+      "superclassNames": [
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "createSphere",
+      "printedName": "createSphere(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNSphere",
+          "printedName": "SceneKit.SCNSphere",
+          "usr": "c:objc(cs)SCNSphere"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin12createSphereySo9SCNSphereCSDySSypGF",
+      "mangledName": "$s12arkit_plugin12createSphereySo9SCNSphereCSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "createPlane",
+      "printedName": "createPlane(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNPlane",
+          "printedName": "SceneKit.SCNPlane",
+          "usr": "c:objc(cs)SCNPlane"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin11createPlaneySo8SCNPlaneCSDySSypGF",
+      "mangledName": "$s12arkit_plugin11createPlaneySo8SCNPlaneCSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "createText",
+      "printedName": "createText(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNText",
+          "printedName": "SceneKit.SCNText",
+          "usr": "c:objc(cs)SCNText"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin10createTextySo7SCNTextCSDySSypGF",
+      "mangledName": "$s12arkit_plugin10createTextySo7SCNTextCSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "createBox",
+      "printedName": "createBox(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNBox",
+          "printedName": "SceneKit.SCNBox",
+          "usr": "c:objc(cs)SCNBox"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin9createBoxySo6SCNBoxCSDySSypGF",
+      "mangledName": "$s12arkit_plugin9createBoxySo6SCNBoxCSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "createLine",
+      "printedName": "createLine(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNGeometry",
+          "printedName": "SceneKit.SCNGeometry",
+          "usr": "c:objc(cs)SCNGeometry"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin10createLineySo11SCNGeometryCSDySSypGF",
+      "mangledName": "$s12arkit_plugin10createLineySo11SCNGeometryCSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "createCylinder",
+      "printedName": "createCylinder(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNCylinder",
+          "printedName": "SceneKit.SCNCylinder",
+          "usr": "c:objc(cs)SCNCylinder"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin14createCylinderySo11SCNCylinderCSDySSypGF",
+      "mangledName": "$s12arkit_plugin14createCylinderySo11SCNCylinderCSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "createCone",
+      "printedName": "createCone(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNCone",
+          "printedName": "SceneKit.SCNCone",
+          "usr": "c:objc(cs)SCNCone"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin10createConeySo7SCNConeCSDySSypGF",
+      "mangledName": "$s12arkit_plugin10createConeySo7SCNConeCSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "createPyramid",
+      "printedName": "createPyramid(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNPyramid",
+          "printedName": "SceneKit.SCNPyramid",
+          "usr": "c:objc(cs)SCNPyramid"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin13createPyramidySo10SCNPyramidCSDySSypGF",
+      "mangledName": "$s12arkit_plugin13createPyramidySo10SCNPyramidCSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "createTube",
+      "printedName": "createTube(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNTube",
+          "printedName": "SceneKit.SCNTube",
+          "usr": "c:objc(cs)SCNTube"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin10createTubeySo7SCNTubeCSDySSypGF",
+      "mangledName": "$s12arkit_plugin10createTubeySo7SCNTubeCSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "createTorus",
+      "printedName": "createTorus(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNTorus",
+          "printedName": "SceneKit.SCNTorus",
+          "usr": "c:objc(cs)SCNTorus"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin11createTorusySo8SCNTorusCSDySSypGF",
+      "mangledName": "$s12arkit_plugin11createTorusySo8SCNTorusCSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "createCapsule",
+      "printedName": "createCapsule(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNCapsule",
+          "printedName": "SceneKit.SCNCapsule",
+          "usr": "c:objc(cs)SCNCapsule"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin13createCapsuleySo10SCNCapsuleCSDySSypGF",
+      "mangledName": "$s12arkit_plugin13createCapsuleySo10SCNCapsuleCSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "createFace",
+      "printedName": "createFace(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "ARSCNFaceGeometry",
+          "printedName": "ARKit.ARSCNFaceGeometry",
+          "usr": "c:objc(cs)ARSCNFaceGeometry"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Metal.MTLDevice?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "MTLDevice",
+              "printedName": "Metal.MTLDevice",
+              "usr": "c:objc(pl)MTLDevice"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin10createFaceySo17ARSCNFaceGeometryCSo9MTLDevice_pSgF",
+      "mangledName": "$s12arkit_plugin10createFaceySo17ARSCNFaceGeometryCSo9MTLDevice_pSgF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "createGeometry",
+      "printedName": "createGeometry(_:withDevice:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "SceneKit.SCNGeometry?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SCNGeometry",
+              "printedName": "SceneKit.SCNGeometry",
+              "usr": "c:objc(cs)SCNGeometry"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "[Swift.String : Any]?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Metal.MTLDevice?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "MTLDevice",
+              "printedName": "Metal.MTLDevice",
+              "usr": "c:objc(pl)MTLDevice"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin14createGeometry_10withDeviceSo11SCNGeometryCSgSDySSypGSg_So9MTLDevice_pSgtF",
+      "mangledName": "$s12arkit_plugin14createGeometry_10withDeviceSo11SCNGeometryCSgSDySSypGSg_So9MTLDevice_pSgtF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "parseMaterials",
+      "printedName": "parseMaterials(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[SceneKit.SCNMaterial]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SCNMaterial",
+              "printedName": "SceneKit.SCNMaterial",
+              "usr": "c:objc(cs)SCNMaterial"
+            }
+          ],
+          "usr": "s:Sa"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[[Swift.String : Any]]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin14parseMaterialsySaySo11SCNMaterialCGSaySDySSypGGF",
+      "mangledName": "$s12arkit_plugin14parseMaterialsySaySo11SCNMaterialCGSaySDySSypGGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "getImageByName",
+      "printedName": "getImageByName(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "UIKit.UIImage?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIImage",
+              "printedName": "UIKit.UIImage",
+              "usr": "c:objc(cs)UIImage"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "String",
+          "printedName": "Swift.String",
+          "usr": "s:SS"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin14getImageByNameySo7UIImageCSgSSF",
+      "mangledName": "$s12arkit_plugin14getImageByNameySo7UIImageCSgSSF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "createImageTrackingConfiguration",
+      "printedName": "createImageTrackingConfiguration(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "ARKit.ARImageTrackingConfiguration?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ARImageTrackingConfiguration",
+              "printedName": "ARKit.ARImageTrackingConfiguration",
+              "usr": "c:objc(cs)ARImageTrackingConfiguration"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin32createImageTrackingConfigurationySo07ARImageeF0CSgSDySSypGF",
+      "mangledName": "$s12arkit_plugin32createImageTrackingConfigurationySo07ARImageeF0CSgSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "intro_iOS": "12.0",
+      "declAttributes": [
+        "Available"
+      ],
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "createNode",
+      "printedName": "createNode(_:fromDict:forDevice:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "SCNNode",
+          "printedName": "SceneKit.SCNNode",
+          "usr": "c:objc(cs)SCNNode"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "SceneKit.SCNGeometry?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SCNGeometry",
+              "printedName": "SceneKit.SCNGeometry",
+              "usr": "c:objc(cs)SCNGeometry"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Metal.MTLDevice?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "MTLDevice",
+              "printedName": "Metal.MTLDevice",
+              "usr": "c:objc(pl)MTLDevice"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin10createNode_8fromDict9forDeviceSo7SCNNodeCSo11SCNGeometryCSg_SDySSypGSo9MTLDevice_pSgtF",
+      "mangledName": "$s12arkit_plugin10createNode_8fromDict9forDeviceSo7SCNNodeCSo11SCNGeometryCSg_SDySSypGSo9MTLDevice_pSgtF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "updateNode",
+      "printedName": "updateNode(_:fromDict:forDevice:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Void",
+          "printedName": "()"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "SCNNode",
+          "printedName": "SceneKit.SCNNode",
+          "usr": "c:objc(cs)SCNNode"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Metal.MTLDevice?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "MTLDevice",
+              "printedName": "Metal.MTLDevice",
+              "usr": "c:objc(pl)MTLDevice"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin10updateNode_8fromDict9forDeviceySo7SCNNodeC_SDySSypGSo9MTLDevice_pSgtF",
+      "mangledName": "$s12arkit_plugin10updateNode_8fromDict9forDeviceySo7SCNNodeC_SDySSypGSo9MTLDevice_pSgtF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "parseReferenceImagesSet",
+      "printedName": "parseReferenceImagesSet(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Set",
+          "printedName": "Swift.Set<ARKit.ARReferenceImage>",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ARReferenceImage",
+              "printedName": "ARKit.ARReferenceImage",
+              "usr": "c:objc(cs)ARReferenceImage"
+            }
+          ],
+          "usr": "s:Sh"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[[Swift.String : Any]]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin23parseReferenceImagesSetyShySo16ARReferenceImageCGSaySDySSypGGF",
+      "mangledName": "$s12arkit_plugin23parseReferenceImagesSetyShySo16ARReferenceImageCGSaySDySSypGGF",
+      "moduleName": "arkit_plugin",
+      "intro_iOS": "11.3",
+      "declAttributes": [
+        "Available"
+      ],
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "parseReferenceImage",
+      "printedName": "parseReferenceImage(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "ARKit.ARReferenceImage?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ARReferenceImage",
+              "printedName": "ARKit.ARReferenceImage",
+              "usr": "c:objc(cs)ARReferenceImage"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin19parseReferenceImageySo011ARReferenceE0CSgSDySSypGF",
+      "mangledName": "$s12arkit_plugin19parseReferenceImageySo011ARReferenceE0CSgSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "intro_iOS": "11.3",
+      "declAttributes": [
+        "Available"
+      ],
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "serializeArray",
+      "printedName": "serializeArray(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.Float]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Float",
+              "printedName": "Swift.Float",
+              "usr": "s:Sf"
+            }
+          ],
+          "usr": "s:Sa"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "SIMD2",
+          "printedName": "Swift.SIMD2<Swift.Float>",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Float",
+              "printedName": "Swift.Float",
+              "usr": "s:Sf"
+            }
+          ],
+          "usr": "s:s5SIMD2V"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin14serializeArrayySaySfGs5SIMD2VySfGF",
+      "mangledName": "$s12arkit_plugin14serializeArrayySaySfGs5SIMD2VySfGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "serializeArray",
+      "printedName": "serializeArray(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.Float]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Float",
+              "printedName": "Swift.Float",
+              "usr": "s:Sf"
+            }
+          ],
+          "usr": "s:Sa"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "SIMD3",
+          "printedName": "Swift.SIMD3<Swift.Float>",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Float",
+              "printedName": "Swift.Float",
+              "usr": "s:Sf"
+            }
+          ],
+          "usr": "s:s5SIMD3V"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin14serializeArrayySaySfGs5SIMD3VySfGF",
+      "mangledName": "$s12arkit_plugin14serializeArrayySaySfGs5SIMD3VySfGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "serializeArray",
+      "printedName": "serializeArray(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.Float]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Float",
+              "printedName": "Swift.Float",
+              "usr": "s:Sf"
+            }
+          ],
+          "usr": "s:Sa"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "SIMD4",
+          "printedName": "Swift.SIMD4<Swift.Float>",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Float",
+              "printedName": "Swift.Float",
+              "usr": "s:Sf"
+            }
+          ],
+          "usr": "s:s5SIMD4V"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin14serializeArrayySaySfGs5SIMD4VySfGF",
+      "mangledName": "$s12arkit_plugin14serializeArrayySaySfGs5SIMD4VySfGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "serializeVector",
+      "printedName": "serializeVector(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.Float]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Float",
+              "printedName": "Swift.Float",
+              "usr": "s:Sf"
+            }
+          ],
+          "usr": "s:Sa"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "SCNVector3",
+          "printedName": "SceneKit.SCNVector3",
+          "usr": "c:@S@SCNVector3"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin15serializeVectorySaySfGSo10SCNVector3VF",
+      "mangledName": "$s12arkit_plugin15serializeVectorySaySfGSo10SCNVector3VF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Function",
+      "name": "serializeMatrix",
+      "printedName": "serializeMatrix(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.Float]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Float",
+              "printedName": "Swift.Float",
+              "usr": "s:Sf"
+            }
+          ],
+          "usr": "s:Sa"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "simd_float4x4",
+          "printedName": "simd.simd_float4x4",
+          "usr": "c:@SA@simd_float4x4"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin15serializeMatrixySaySfGSo13simd_float4x4aF",
+      "mangledName": "$s12arkit_plugin15serializeMatrixySaySfGSo13simd_float4x4aF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "SwiftArkitPlugin",
+      "printedName": "SwiftArkitPlugin",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "registrar",
+          "printedName": "registrar",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Flutter.FlutterPluginRegistrar?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FlutterPluginRegistrar",
+                  "printedName": "Flutter.FlutterPluginRegistrar",
+                  "usr": "c:objc(pl)FlutterPluginRegistrar"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12arkit_plugin16SwiftArkitPluginC9registrarSo07FlutterE9Registrar_pSgvpZ",
+          "mangledName": "$s12arkit_plugin16SwiftArkitPluginC9registrarSo07FlutterE9Registrar_pSgvpZ",
+          "moduleName": "arkit_plugin",
+          "static": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Flutter.FlutterPluginRegistrar?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "FlutterPluginRegistrar",
+                      "printedName": "Flutter.FlutterPluginRegistrar",
+                      "usr": "c:objc(pl)FlutterPluginRegistrar"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16SwiftArkitPluginC9registrarSo07FlutterE9Registrar_pSgvgZ",
+              "mangledName": "$s12arkit_plugin16SwiftArkitPluginC9registrarSo07FlutterE9Registrar_pSgvgZ",
+              "moduleName": "arkit_plugin",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Flutter.FlutterPluginRegistrar?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "FlutterPluginRegistrar",
+                      "printedName": "Flutter.FlutterPluginRegistrar",
+                      "usr": "c:objc(pl)FlutterPluginRegistrar"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16SwiftArkitPluginC9registrarSo07FlutterE9Registrar_pSgvsZ",
+              "mangledName": "$s12arkit_plugin16SwiftArkitPluginC9registrarSo07FlutterE9Registrar_pSgvsZ",
+              "moduleName": "arkit_plugin",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16SwiftArkitPluginC9registrarSo07FlutterE9Registrar_pSgvMZ",
+              "mangledName": "$s12arkit_plugin16SwiftArkitPluginC9registrarSo07FlutterE9Registrar_pSgvMZ",
+              "moduleName": "arkit_plugin",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "register",
+          "printedName": "register(with:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterPluginRegistrar",
+              "printedName": "Flutter.FlutterPluginRegistrar",
+              "usr": "c:objc(pl)FlutterPluginRegistrar"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@arkit_plugin@objc(cs)SwiftArkitPlugin(cm)registerWithRegistrar:",
+          "mangledName": "$s12arkit_plugin16SwiftArkitPluginC8register4withySo07FlutterE9Registrar_p_tFZ",
+          "moduleName": "arkit_plugin",
+          "static": true,
+          "objc_name": "registerWithRegistrar:",
+          "declAttributes": [
+            "Final",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "handle",
+          "printedName": "handle(_:result:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterMethodCall",
+              "printedName": "Flutter.FlutterMethodCall",
+              "usr": "c:objc(cs)FlutterMethodCall"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@arkit_plugin@objc(cs)SwiftArkitPlugin(im)handleMethodCall:result:",
+          "mangledName": "$s12arkit_plugin16SwiftArkitPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "handleMethodCall:result:",
+          "declAttributes": [
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SwiftArkitPlugin",
+              "printedName": "arkit_plugin.SwiftArkitPlugin",
+              "usr": "c:@M@arkit_plugin@objc(cs)SwiftArkitPlugin"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@arkit_plugin@objc(cs)SwiftArkitPlugin(im)init",
+          "mangledName": "$s12arkit_plugin16SwiftArkitPluginCACycfc",
+          "moduleName": "arkit_plugin",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "init",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@arkit_plugin@objc(cs)SwiftArkitPlugin",
+      "mangledName": "$s12arkit_plugin16SwiftArkitPluginC",
+      "moduleName": "arkit_plugin",
+      "isOpen": true,
+      "declAttributes": [
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)NSObject",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "FlutterArkitFactory",
+      "printedName": "FlutterArkitFactory",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "messenger",
+          "printedName": "messenger",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterBinaryMessenger",
+              "printedName": "Flutter.FlutterBinaryMessenger",
+              "usr": "c:objc(pl)FlutterBinaryMessenger"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12arkit_plugin19FlutterArkitFactoryC9messengerSo0C15BinaryMessenger_pvp",
+          "mangledName": "$s12arkit_plugin19FlutterArkitFactoryC9messengerSo0C15BinaryMessenger_pvp",
+          "moduleName": "arkit_plugin",
+          "declAttributes": [
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FlutterBinaryMessenger",
+                  "printedName": "Flutter.FlutterBinaryMessenger",
+                  "usr": "c:objc(pl)FlutterBinaryMessenger"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin19FlutterArkitFactoryC9messengerSo0C15BinaryMessenger_pvg",
+              "mangledName": "$s12arkit_plugin19FlutterArkitFactoryC9messengerSo0C15BinaryMessenger_pvg",
+              "moduleName": "arkit_plugin",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(messenger:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterArkitFactory",
+              "printedName": "arkit_plugin.FlutterArkitFactory",
+              "usr": "c:@M@arkit_plugin@objc(cs)FlutterArkitFactory"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterBinaryMessenger",
+              "printedName": "Flutter.FlutterBinaryMessenger",
+              "usr": "c:objc(pl)FlutterBinaryMessenger"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:12arkit_plugin19FlutterArkitFactoryC9messengerACSo0C15BinaryMessenger_p_tcfc",
+          "mangledName": "$s12arkit_plugin19FlutterArkitFactoryC9messengerACSo0C15BinaryMessenger_p_tcfc",
+          "moduleName": "arkit_plugin",
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "create",
+          "printedName": "create(withFrame:viewIdentifier:arguments:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterPlatformView",
+              "printedName": "Flutter.FlutterPlatformView",
+              "usr": "c:objc(pl)FlutterPlatformView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "CGRect",
+              "printedName": "CoreGraphics.CGRect",
+              "usr": "c:@S@CGRect"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int64",
+              "printedName": "Swift.Int64",
+              "usr": "s:s5Int64V"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Any?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@arkit_plugin@objc(cs)FlutterArkitFactory(im)createWithFrame:viewIdentifier:arguments:",
+          "mangledName": "$s12arkit_plugin19FlutterArkitFactoryC6create9withFrame14viewIdentifier9argumentsSo0C12PlatformView_pSo6CGRectV_s5Int64VypSgtF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "createWithFrame:viewIdentifier:arguments:",
+          "declAttributes": [
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterArkitFactory",
+              "printedName": "arkit_plugin.FlutterArkitFactory",
+              "usr": "c:@M@arkit_plugin@objc(cs)FlutterArkitFactory"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@arkit_plugin@objc(cs)FlutterArkitFactory(im)init",
+          "mangledName": "$s12arkit_plugin19FlutterArkitFactoryCACycfc",
+          "moduleName": "arkit_plugin",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "init",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@arkit_plugin@objc(cs)FlutterArkitFactory",
+      "mangledName": "$s12arkit_plugin19FlutterArkitFactoryC",
+      "moduleName": "arkit_plugin",
+      "isOpen": true,
+      "declAttributes": [
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)NSObject",
+      "superclassNames": [
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "checkConfiguration",
+      "printedName": "checkConfiguration(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Bool",
+          "printedName": "Swift.Bool",
+          "usr": "s:Sb"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "Any?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:Sq"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin18checkConfigurationySbypSgF",
+      "mangledName": "$s12arkit_plugin18checkConfigurationySbypSgF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "VideoArkitPlugin",
+      "printedName": "VideoArkitPlugin",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "nodes",
+          "printedName": "nodes",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : SpriteKit.SKVideoNode]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "SKVideoNode",
+                  "printedName": "SpriteKit.SKVideoNode",
+                  "usr": "c:objc(cs)SKVideoNode"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12arkit_plugin16VideoArkitPluginC5nodesSDySSSo11SKVideoNodeCGvpZ",
+          "mangledName": "$s12arkit_plugin16VideoArkitPluginC5nodesSDySSSo11SKVideoNodeCGvpZ",
+          "moduleName": "arkit_plugin",
+          "static": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Swift.String : SpriteKit.SKVideoNode]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "SKVideoNode",
+                      "printedName": "SpriteKit.SKVideoNode",
+                      "usr": "c:objc(cs)SKVideoNode"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16VideoArkitPluginC5nodesSDySSSo11SKVideoNodeCGvgZ",
+              "mangledName": "$s12arkit_plugin16VideoArkitPluginC5nodesSDySSSo11SKVideoNodeCGvgZ",
+              "moduleName": "arkit_plugin",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Swift.String : SpriteKit.SKVideoNode]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "SKVideoNode",
+                      "printedName": "SpriteKit.SKVideoNode",
+                      "usr": "c:objc(cs)SKVideoNode"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16VideoArkitPluginC5nodesSDySSSo11SKVideoNodeCGvsZ",
+              "mangledName": "$s12arkit_plugin16VideoArkitPluginC5nodesSDySSSo11SKVideoNodeCGvsZ",
+              "moduleName": "arkit_plugin",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12arkit_plugin16VideoArkitPluginC5nodesSDySSSo11SKVideoNodeCGvMZ",
+              "mangledName": "$s12arkit_plugin16VideoArkitPluginC5nodesSDySSSo11SKVideoNodeCGvMZ",
+              "moduleName": "arkit_plugin",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "register",
+          "printedName": "register(with:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterPluginRegistrar",
+              "printedName": "Flutter.FlutterPluginRegistrar",
+              "usr": "c:objc(pl)FlutterPluginRegistrar"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@arkit_plugin@objc(cs)VideoArkitPlugin(cm)registerWithRegistrar:",
+          "mangledName": "$s12arkit_plugin16VideoArkitPluginC8register4withySo07FlutterE9Registrar_p_tFZ",
+          "moduleName": "arkit_plugin",
+          "static": true,
+          "objc_name": "registerWithRegistrar:",
+          "declAttributes": [
+            "Final",
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "handle",
+          "printedName": "handle(_:result:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "FlutterMethodCall",
+              "printedName": "Flutter.FlutterMethodCall",
+              "usr": "c:objc(cs)FlutterMethodCall"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Any?) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Any?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@arkit_plugin@objc(cs)VideoArkitPlugin(im)handleMethodCall:result:",
+          "mangledName": "$s12arkit_plugin16VideoArkitPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF",
+          "moduleName": "arkit_plugin",
+          "isOpen": true,
+          "objc_name": "handleMethodCall:result:",
+          "declAttributes": [
+            "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "VideoArkitPlugin",
+              "printedName": "arkit_plugin.VideoArkitPlugin",
+              "usr": "c:@M@arkit_plugin@objc(cs)VideoArkitPlugin"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@arkit_plugin@objc(cs)VideoArkitPlugin(im)init",
+          "mangledName": "$s12arkit_plugin16VideoArkitPluginCACycfc",
+          "moduleName": "arkit_plugin",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "init",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@arkit_plugin@objc(cs)VideoArkitPlugin",
+      "mangledName": "$s12arkit_plugin16VideoArkitPluginC",
+      "moduleName": "arkit_plugin",
+      "isOpen": true,
+      "declAttributes": [
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)NSObject",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "ARKit",
+      "printedName": "ARKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Flutter",
+      "printedName": "Flutter",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin"
+    },
+    {
+      "kind": "Import",
+      "name": "arkit_plugin",
+      "printedName": "arkit_plugin",
+      "declKind": "Import",
+      "moduleName": "arkit_plugin",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Function",
+      "name": "createWorldTrackingConfiguration",
+      "printedName": "createWorldTrackingConfiguration(_:)",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Optional",
+          "printedName": "ARKit.ARWorldTrackingConfiguration?",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ARWorldTrackingConfiguration",
+              "printedName": "ARKit.ARWorldTrackingConfiguration",
+              "usr": "c:objc(cs)ARWorldTrackingConfiguration"
+            }
+          ],
+          "usr": "s:Sq"
+        },
+        {
+          "kind": "TypeNominal",
+          "name": "Dictionary",
+          "printedName": "[Swift.String : Any]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProtocolComposition",
+              "printedName": "Any"
+            }
+          ],
+          "usr": "s:SD"
+        }
+      ],
+      "declKind": "Func",
+      "usr": "s:12arkit_plugin32createWorldTrackingConfigurationySo07ARWorldeF0CSgSDySSypGF",
+      "mangledName": "$s12arkit_plugin32createWorldTrackingConfigurationySo07ARWorldeF0CSgSDySSypGF",
+      "moduleName": "arkit_plugin",
+      "funcSelfKind": "NonMutating"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "UIColor",
+      "printedName": "UIColor",
+      "children": [
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(rgb:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIColor",
+              "printedName": "UIKit.UIColor",
+              "usr": "c:objc(cs)UIColor"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UInt",
+              "printedName": "Swift.UInt",
+              "usr": "s:Su"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:So7UIColorC12arkit_pluginE3rgbABSu_tcfc",
+          "mangledName": "$sSo7UIColorC12arkit_pluginE3rgbABSu_tcfc",
+          "moduleName": "arkit_plugin",
+          "init_kind": "Convenience"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:objc(cs)UIColor",
+      "moduleName": "UIKit",
+      "isOpen": true,
+      "intro_iOS": "2.0",
+      "objc_name": "UIColor",
+      "declAttributes": [
+        "Available",
+        "ObjC",
+        "Dynamic"
+      ],
+      "superclassUsr": "c:objc(cs)NSObject",
+      "isExternal": true,
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_ExpressibleByColorLiteral",
+          "printedName": "_ExpressibleByColorLiteral",
+          "usr": "s:s26_ExpressibleByColorLiteralP",
+          "mangledName": "$ss26_ExpressibleByColorLiteralP"
+        }
+      ]
+    }
+  ],
+  "json_format_version": 6
+}
