@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:sample_ar/home.dart';
+
+import 'screens/home.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,6 +12,7 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
+
     return MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Flutter AR Demo',
@@ -19,6 +21,6 @@ class MyApp extends StatelessWidget {
                 backgroundColor: Colors.white,
                 elevation: 0,
                 foregroundColor: Colors.black)),
-        home: const HomeScreen());
+        home: const Home());
   }
 }
